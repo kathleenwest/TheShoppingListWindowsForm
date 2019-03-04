@@ -1,5 +1,7 @@
 # TheShoppingListWindowsForm
 
+Project Blog Article: https://portfolio.katiegirl.net/2018/08/10/the-shopping-list/
+
 1. Objectives
 
 The main objectives are:
